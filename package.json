@@ -1,0 +1,25 @@
+{
+  "name": "agilizee-api-nv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devagilizee/agilizee-api-nv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devagilizee/agilizee-api-nv/issues"
+  },
+  "homepage": "https://github.com/devagilizee/agilizee-api-nv#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "next": "^12.1.0",
+    "react": "^17.0.2"
+  }
+}
